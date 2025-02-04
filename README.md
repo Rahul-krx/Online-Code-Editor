@@ -5,21 +5,21 @@ and Python. Built using CodeMirror for a smooth and efficient coding experience.
 
 🚀 Features:
 
-Supports multiple languages: C, C++, Java, Python
+. Supports multiple languages: C, C++, Java, Python
 
-Syntax highlighting with CodeMirror
+. Syntax highlighting with CodeMirror
 
-Real-time code execution
+. Real-time code execution
 
-User-friendly interface
+. User-friendly interface
 
-Lightweight and fast
+. Lightweight and fast
 
 🛠️ Technologies Used
 
-Frontend: CodeMirror, HTML, CSS, JavaScript
+. Frontend: CodeMirror, HTML, CSS, JavaScript
 
-Backend: ( Node.js, Nodemon, compilex)
+. Backend: ( Node.js, Nodemon, compilex)
 
 📸 Screenshots
 <img width="1076" alt="image" src="https://github.com/user-attachments/assets/2b307ebe-b89e-487e-91e3-33126703bb10" />
